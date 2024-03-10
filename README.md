@@ -1,1 +1,1 @@
-This self-lead project analyzed data on a product from the Mysterious Galaxy Bookstore at https://www.mystgalaxy.com/book/9781250878533 with the end goal of converting that information into an Excel that will update regularly.
+This self-lead project analyzed data on a product from the Mysterious Galaxy Bookstore at https://www.mystgalaxy.com/book/9781250878533 with the end goal of converting that information into an Excel csv that will update regularly.
